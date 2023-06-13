@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  padding: 20px;
+
+  background: rgb(231, 253, 198);
+  border-radius: 10px;
+
+  margin-bottom: 30px;
+}
+
+.container h2 {
+  direction: ltr;
+  word-break: break-all;
+}
